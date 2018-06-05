@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  * Detekcja kolizji.
- * @author Robert
+ * @author Borzyszkowski Bartłomiej, Michalik Jan
  */
 public class CollisionDetector extends Behavior {
     public static boolean inCollision = false;
